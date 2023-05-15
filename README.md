@@ -16,3 +16,6 @@ In a terminal window:
 - The server should be running on http://localhost:8000/
 - The client should be running on http://localhost:3000/. Enter the URL in the browser to verify that the UI is loading without errors. The gene data should be displayed on the table on the UI.
 
+
+test
+
